@@ -1,0 +1,11 @@
+{
+    "fileName": "ChoreoLib.json",
+    "name": "ChoreoLib",
+    "version": "0.0.1",
+    "frcYear": "2024",
+    "uuid": "8abdd982-900d-11ee-b9d1-0242ac120002",
+    "mavenUrls": [
+        "https://awesomeplayer165.github.io/ChoreoLib/repo"
+    ],
+    "jsonUrl": "https://awesomeplayer165.github.io/ChoreoLib/ChoreoLib.json"
+}
