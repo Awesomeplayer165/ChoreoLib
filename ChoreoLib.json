@@ -8,7 +8,13 @@
         "https://awesomeplayer165.github.io/ChoreoLib/repo"
     ],
     "jsonUrl": "https://awesomeplayer165.github.io/ChoreoLib/ChoreoLib.json",
-    "javaDependencies": [],
+    "javaDependencies": [
+        {
+            "groupId": "com.choreo.lib.ChoreoLib",
+            "artifactId": "baseArtifactId",
+            "version": "0.0.0"
+        }
+    ],
     "jniDependencies": [],
     "cppDependencies": []
 }
